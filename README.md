@@ -31,10 +31,20 @@
 
 ##  ⚡ GitHub Stats
 
+<center>
+<table>
+    <tr>
+        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=PachecoWebDev&count_private=true&show_icons=true&theme=dracula" /></td>
+        <td><img width="415px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PachecoWebDev&layout=compact"/></td>
+    </tr>   
+</table>
+</center>
+
+<!--
 [![Pacheco GitHub stats](https://github-readme-stats.vercel.app/api?username=PachecoWebDev&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PachecoWebDev&layout=compact)](https://github.com/PachecoWebDev/github-readme-stats)
-<!--
+
 **PachecoWebDev/PachecoWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
