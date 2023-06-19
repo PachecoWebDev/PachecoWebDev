@@ -3,7 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PachecoWebDev)](https://github.com/PachecoWebDev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-pacheco-oliveira-506474a1/)](https://www.linkedin.com/in/anderson-pacheco-oliveira-506474a1/)
 
-- :computer: Full Stack Developer na [@verzel](https://www.verzel.com.br/)
 - :briefcase: Founder e Dev Full Stack na [@ascenderideias](https://www.ascenderideias.com.br)
 - :books: Você pode ficar por dentro de dicas e conteúdos sobre programação no meu instagram [@pachecoporaqui](https://www.instagram.com/pachecoporaqui/)
 - :muscle: Incentivando Dev's a deixarem de lado o sedentarismo.
